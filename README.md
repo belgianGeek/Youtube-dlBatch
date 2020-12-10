@@ -12,7 +12,7 @@ Then, the downloaded files are placed into the folder `C:\Users\<username>\Music
 Before being able to use this script, there are some prerequisites :
 1. You should have downloaded Youtube-dl (the latest version is available [here](https://github.com/rg3/youtube-dl/releases)). You just have to download the `youtube-dl.exe` file of the latest commit. If you already have Youtube-dl, you can update it. To do it, just go into the folder where it is saved and run the `youtube-dl -U` command in the console.
 
-2. You should also have downloaded thr latest release of [FFMPEG](https://github.com/GyanD/codexffmpeg/releases) to extract and process audio files. You have to download a `.zip` archive from which you should extract only the `bin` folder content. Once done place it in the same folder as `Youtube-dl`.
+2. You should also have downloaded the latest release of [FFMPEG](https://github.com/GyanD/codexffmpeg/releases) to extract and process audio files. You have to download a `.zip` archive from which you should extract only the `bin` folder content. Once done place it in the same folder as `Youtube-dl`.
 
 This isn't as difficult as it seems, don't be afraid :wink:.
 
