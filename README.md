@@ -28,10 +28,6 @@ To enjoy the use of the script and Youtube-dl, all you have to do is execute the
 
 You can contribute to this project by reporting a bug, by opening an [issue](https://github.com/belgianGeek/youtube-dlBatch/issues), or by working on your side and then suggest a [pull request](https://github.com/belgianGeek/youtube-dlBatch/pulls).
 
-# Any idea or question ?
-
-Don't hesitate to [email](mailto:maximevanderwegen@disroot.org?subject=Youtube-dlBatch) me, I'd be glad to discuss with you.
-
 # License
 
 All the content of this repo is placed under the [GNU-GPL](https://en.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_GNU) license. You can copy, modify or duplicate this code as your will.
